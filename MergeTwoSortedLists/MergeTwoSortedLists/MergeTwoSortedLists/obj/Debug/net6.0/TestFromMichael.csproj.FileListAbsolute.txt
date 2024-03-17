@@ -1,0 +1,15 @@
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\bin\Debug\net6.0\TestFromMichael.exe
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\bin\Debug\net6.0\TestFromMichael.deps.json
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\bin\Debug\net6.0\TestFromMichael.runtimeconfig.json
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\bin\Debug\net6.0\TestFromMichael.dll
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\bin\Debug\net6.0\TestFromMichael.pdb
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.csproj.AssemblyReference.cache
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.AssemblyInfoInputs.cache
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.AssemblyInfo.cs
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.dll
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\refint\TestFromMichael.dll
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.pdb
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\TestFromMichael.genruntimeconfig.cache
+C:\Users\Besitzer\source\repos\TestFromMichael\TestFromMichael\obj\Debug\net6.0\ref\TestFromMichael.dll
