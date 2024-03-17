@@ -1,0 +1,15 @@
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.csproj.AssemblyReference.cache
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.AssemblyInfoInputs.cache
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.AssemblyInfo.cs
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net6.0\RemoveDuplicatesFromSortedArray.exe
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net6.0\RemoveDuplicatesFromSortedArray.deps.json
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net6.0\RemoveDuplicatesFromSortedArray.runtimeconfig.json
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net6.0\RemoveDuplicatesFromSortedArray.dll
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net6.0\RemoveDuplicatesFromSortedArray.pdb
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.dll
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\refint\RemoveDuplicatesFromSortedArray.dll
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.pdb
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\RemoveDuplicatesFromSortedArray.genruntimeconfig.cache
+C:\Users\Besitzer\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net6.0\ref\RemoveDuplicatesFromSortedArray.dll
